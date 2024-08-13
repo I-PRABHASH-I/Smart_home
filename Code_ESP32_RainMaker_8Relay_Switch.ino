@@ -1,9 +1,5 @@
 /**********************************************************************************
     TITLE: ESP RainMaker + Manual Switch control 8 Relays using ESP32 (Real time feedback + no WiFi control)
-    Click on the following links to learn more.
-    YouTube Video: https://youtu.be/IMb52-h4tzQ
-    Related Blog : https://iotcircuithub.com/esp32-projects/
-    by Tech StudyCell
     Preferences--> Aditional boards Manager URLs :
     http://arduino.esp8266.com/stable/package_esp8266com_index.json,https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 
